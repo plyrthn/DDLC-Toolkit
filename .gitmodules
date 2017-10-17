@@ -3,5 +3,5 @@
 	url = https://github.com/plyrthn/itch.io-downloader
 [submodule "unrpa"]
 	path = unrpa
-	url = https://github.com/Lattyware/unrpa
+	url = https://github.com/plyrthn/unrpa
 	branch = master
